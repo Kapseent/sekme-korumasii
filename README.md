@@ -11,3 +11,5 @@ Eresbosun Github Linki : https://github.com/ERESB0S;
 Botla İlgili Bir Sorun Olursa Kapsênt#0001 , Eresbos#0001 Ulaşabilirsiniz.
 
 İyi Kullanımlar.
+
+Star Atarsanız Sevinirim :)
