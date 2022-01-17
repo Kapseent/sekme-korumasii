@@ -4,6 +4,7 @@ Paylaşma Sebebim Çogu Botçu Yapamayıp Bazılarıda Yapıp G2tü Başı Ayrı
 Altta Bir SS Bırakıyorum Sekme Korumasından İyi Kullanmalar.
 
 ![image](https://cdn.discordapp.com/attachments/932613843643945023/932627599157522493/Screenshot_17.png)
+![image](https://cdn.discordapp.com/attachments/932613843643945023/932628607111667782/Screenshot_18.png)
 
 Eresbosun Github Linki : https://github.com/ERESB0S;
 
