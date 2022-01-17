@@ -1,5 +1,5 @@
 Gençler Selam Ben Kapsent Bugün Sizlere Sekme Koruması Paylaşacagım.
-Bu Sekme Koruması **Eresbos'un** Dur Kendisinden İzin Alarak Editledim.
+Bu Sekme Koruması **Eresbos'un** Dur Kendisinden İzin Alarak Paylaşıyorum.
 Paylaşma Sebebim Çogu Botçu Yapamayıp Bazılarıda Yapıp G2tü Başı Ayrı Oynaması.
 Altta Bir SS Bırakıyorum Sekme Korumasından İyi Kullanmalar.
 
