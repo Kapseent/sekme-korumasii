@@ -1,0 +1,17 @@
+{
+  "name": "kapsent",
+  "version": "1.0.0",
+  "description": "eresbos",
+  "main": "kapsent.js",
+  "scripts": {
+    "test": "node kapsent.js"
+  },
+  "author": "kapsent",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.6",
+    "quick.db": "^7.1.3"
+  }
+}
