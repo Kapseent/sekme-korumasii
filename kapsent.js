@@ -25,13 +25,13 @@ client.on("message", (message) => {
     let command = args[0];
     let bot = message.client;
     args = args.splice(1);
-    let beta;
+    let kapsent;
     if (commands.has(command)) {
-      beta = commands.get(command);
-      beta.execute(bot, message, args);
+      kapsent = commands.get(command);
+      kapsent.execute(bot, message, args);
     } else if (aliases.has(command)) {
-      beta = aliases.get(command);
-      beta.execute(bot, message, args);
+      kapsent = aliases.get(command);
+      kapsent.execute(bot, message, args);
     }
 });
 
