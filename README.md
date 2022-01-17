@@ -3,7 +3,7 @@ Bu Sekme Koruması **Eresbos'un** Dur Kendisinden İzin Alarak Editledim.
 Paylaşma Sebebim Çogu Botçu Yapamayıp Bazılarıda Yapıp G2tü Başı Ayrı Oynaması.
 Altta Bir SS Bırakıyorum Sekme Korumasından İyi Kullanmalar.
 
-![image](https://cdn.discordapp.com/attachments/929707649820397598/932620555335663627/Screenshot_16.png)
+![image](https://cdn.discordapp.com/attachments/932613843643945023/932627599157522493/Screenshot_17.png)
 
 Eresbosun Github Linki : https://github.com/ERESB0S;
 
